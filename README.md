@@ -1,49 +1,50 @@
-I'm a senior application engineer building software and web sites with high-level documentation and coding standards.
+# Hi, I'm Tarun Mahajan
 
-<b>My top five strengths are:</b>
-  - Includer
-  - Relator
-  - Restorative
-  - Activator
-  - Responsibility
+Full-Stack Engineer & Technical Lead with 12+ years of experience building scalable web applications and leading engineering teams across wellness, healthcare, fintech, and logistics.
 
-<b>My skills and experiences:</b>
+## What I'm Working On
 
-  - Ruby on Rails | Ruby | Angular
+- **[Easy Prime](https://github.com/tmahajan90/inventory_crm)** — Multi-tenant inventory management SaaS built with Rails 8, PostgreSQL, Hotwire, and Tailwind CSS
+- **[Pathankot Seva](https://github.com/tmahajan90/pathankot-seva)** — Hyperlocal community platform with Rails backend + React Native mobile app
 
-  - HTML | CSS | Bootstrap | Javascript | Jquery | Typescript | Ajax
+## Tech Stack
 
-  - MySQL | PostgreSQL
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-  - Delayed Job | Sidekiq
+## What I Do
 
-  - Paypal | Authorise.net
+- Cloud migrations with zero downtime
+- Backend modernization & Ruby upgrades
+- Microservices & distributed systems
+- CI/CD pipelines & DevOps
+- Production debugging & performance optimization
+- AI integration into existing systems
 
-  - Rspec | Redis | Docker | Docker Composer
-  
-  - Amazon Web Services(AWS) | Heroku | GCloud
-  
-  - Git | Bitbucket | Github
-  
+## GitHub Stats
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=tmahajan90&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tmahajan90&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
-<b>What I always play with</b>
+## My Top 5 Strengths
 
-  <img src="https://camo.githubusercontent.com/0079feb14bbff14598027b0ddfb26c93d2056f883685008da4fba86316d2da81/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6e69636f313731312f696d6167652f75706c6f61642f635f7363616c652c685f33302f76313539383834393635352f727562795f6e7271316a792e706e67" alt="ruby-logo" data-canonical-src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/069535ee6b03fa46e2262dd13d54e9bfe5d051a6c6c09e252b06563f335af7e7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6e69636f313731312f696d6167652f75706c6f61642f635f7363616c652c685f33302f76313539383835303639302f7261696c735f315f7665737332762e706e67" alt="rails-logo" data-canonical-src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/b1a90b869cc798c8aedc99c3d41aca2e4ad938be42cc4bcc73711cff6b5d1947/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6e69636f313731312f696d6167652f75706c6f61642f635f7363616c652c685f33302f76313539383834393636302f706f737467726573716c5f7a73666439702e706e67" alt="postgres-logo" data-canonical-src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" style="max-width: 100%;">
+**Includer** | **Relator** | **Restorative** | **Activator** | **Responsibility**
 
+## Let's Connect
 
-
-<!--
-**tmahajan1990/tmahajan1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tmahajan90/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mahajan.tarun1990@gmail.com)
